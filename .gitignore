@@ -1,0 +1,31 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio / VS Code local files
+.vs/
+.vscode/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test and coverage outputs
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Local logs and temp files
+*.log
+*.tmp
+
+# Binary/sample image assets (commit only with explicit redistribution rights)
+*.mit
+*.mag
+*.MAG

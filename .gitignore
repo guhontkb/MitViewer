@@ -1,6 +1,8 @@
 # Build outputs
 bin/
 obj/
+publish/
+MitViewer-v*-win-x64.zip
 
 # Visual Studio / VS Code local files
 .vs/
